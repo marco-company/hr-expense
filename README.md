@@ -25,6 +25,7 @@ addon | version | maintainers | summary
 [hr_expense_advance_clearing_sequence](hr_expense_advance_clearing_sequence/) | 16.0.1.0.0 |  | HR Expense Advance Clearing Sequence
 [hr_expense_cancel](hr_expense_cancel/) | 16.0.1.0.3 |  | Hr expense cancel
 [hr_expense_invoice](hr_expense_invoice/) | 16.0.2.0.3 |  | Supplier invoices on HR expenses
+[hr_expense_journal](hr_expense_journal/) | 16.0.1.0.0 | [![dreispt](https://github.com/dreispt.png?size=30px)](https://github.com/dreispt) | Set the Journal for the payment type used to pay the expense
 [hr_expense_pay_to_vendor](hr_expense_pay_to_vendor/) | 16.0.1.0.0 | [![kittiu](https://github.com/kittiu.png?size=30px)](https://github.com/kittiu) | HR Expense - Pay To Vendor
 [hr_expense_payment](hr_expense_payment/) | 16.0.1.0.2 |  | HR Expense Payment
 [hr_expense_sequence](hr_expense_sequence/) | 16.0.1.0.1 |  | HR expense sequence
