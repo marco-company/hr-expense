@@ -30,7 +30,7 @@ addon | version | maintainers | summary
 [hr_expense_payment](hr_expense_payment/) | 16.0.1.0.2 |  | HR Expense Payment
 [hr_expense_sequence](hr_expense_sequence/) | 16.0.1.0.1 |  | HR expense sequence
 [hr_expense_sequence_option](hr_expense_sequence_option/) | 16.0.1.0.0 | <a href='https://github.com/ps-tubtim'><img src='https://github.com/ps-tubtim.png' width='32' height='32' style='border-radius:50%;' alt='ps-tubtim'/></a> | Manage sequence options for hr.expense.sheet
-[hr_expense_tier_validation](hr_expense_tier_validation/) | 16.0.1.0.2 | <a href='https://github.com/ps-tubtim'><img src='https://github.com/ps-tubtim.png' width='32' height='32' style='border-radius:50%;' alt='ps-tubtim'/></a> | Expense Tier Validation
+[hr_expense_tier_validation](hr_expense_tier_validation/) | 16.0.2.0.0 | <a href='https://github.com/ps-tubtim'><img src='https://github.com/ps-tubtim.png' width='32' height='32' style='border-radius:50%;' alt='ps-tubtim'/></a> | Expense Tier Validation
 
 [//]: # (end addons)
 
