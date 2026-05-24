@@ -18,6 +18,7 @@ setuptools.setup(
         'odoo-addon-hr_expense_sequence>=16.0dev,<16.1dev',
         'odoo-addon-hr_expense_sequence_option>=16.0dev,<16.1dev',
         'odoo-addon-hr_expense_tier_validation>=16.0dev,<16.1dev',
+        'odoo-addon-hr_expense_work_acceptance>=16.0dev,<16.1dev',
     ],
     classifiers=[
         'Programming Language :: Python',

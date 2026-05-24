@@ -1,4 +1,7 @@
 
+[![Support the OCA](https://odoo-community.org/readme-banner-image)](https://odoo-community.org/get-involved?utm_source=repo-readme)
+
+# hr-expense
 [![Runboat](https://img.shields.io/badge/runboat-Try%20me-875A7B.png)](https://runboat.odoo-community.org/builds?repo=OCA/hr-expense&target_branch=16.0)
 [![Pre-commit Status](https://github.com/OCA/hr-expense/actions/workflows/pre-commit.yml/badge.svg?branch=16.0)](https://github.com/OCA/hr-expense/actions/workflows/pre-commit.yml?query=branch%3A16.0)
 [![Build Status](https://github.com/OCA/hr-expense/actions/workflows/test.yml/badge.svg?branch=16.0)](https://github.com/OCA/hr-expense/actions/workflows/test.yml?query=branch%3A16.0)
@@ -6,8 +9,6 @@
 [![Translation Status](https://translation.odoo-community.org/widgets/hr-expense-16-0/-/svg-badge.svg)](https://translation.odoo-community.org/engage/hr-expense-16-0/?utm_source=widget)
 
 <!-- /!\ do not modify above this line -->
-
-# hr-expense
 
 TODO: add repo description.
 
@@ -31,6 +32,7 @@ addon | version | maintainers | summary
 [hr_expense_sequence](hr_expense_sequence/) | 16.0.1.0.1 |  | HR expense sequence
 [hr_expense_sequence_option](hr_expense_sequence_option/) | 16.0.1.0.0 | <a href='https://github.com/ps-tubtim'><img src='https://github.com/ps-tubtim.png' width='32' height='32' style='border-radius:50%;' alt='ps-tubtim'/></a> | Manage sequence options for hr.expense.sheet
 [hr_expense_tier_validation](hr_expense_tier_validation/) | 16.0.2.0.0 | <a href='https://github.com/ps-tubtim'><img src='https://github.com/ps-tubtim.png' width='32' height='32' style='border-radius:50%;' alt='ps-tubtim'/></a> | Expense Tier Validation
+[hr_expense_work_acceptance](hr_expense_work_acceptance/) | 16.0.1.0.0 |  | Expense Work Acceptance
 
 [//]: # (end addons)
 
